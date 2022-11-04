@@ -3,7 +3,7 @@
 
 ### Hello! 👋
 
-I’m currently working for Google on Google Open Source Security Team (GOSST), which was created as a response to the current scenario of [increasing attacks on supply chain projects][supply-chain-attacks]. The team counts with experienced open-source contributors and works along with the Open Source Security Foundation ([OpenSSF][ossf]) to develop and spread solutions to make open softwares safer at scale.
+I’m currently working for Google on Google Open Source Security Team (GOSST), which was created as a response to the current scenario of [increasing attacks on supply chain projects][supply-chain-attacks]. The team counts with experienced open-source contributors and works along with the Open Source Security Foundation ([OpenSSF][ossf]) to develop and spread solutions to make open softwares safer at scale. You can read more about Google initiatives on open source on [this blogpost][open-source-on-google].
 
 More specifically, I'm part of a sub-team responsible for our direct contact with the Open Source community. We work around [critical open source projects][critical-projects] to help increase security, in any aspect or concern that might be relevant. As a team, our goal is to:
 
@@ -25,6 +25,7 @@ In regard to the GOSST/OpenSSF security solutions that help securing the supply-
 
 [supply-chain-attacks]: https://www.sonatype.com/resources/state-of-the-software-supply-chain-2021 "Source with research on software supply chain security"
 [ossf]: https://openssf.org/ "OpenSSF website"
+[open-source-on-google]: https://opensource.googleblog.com/2021/08/metrics-spikes-and-uncertainty-open-source-contribution-during-a-global-pandemic.html "Blogpost about open source contributions by Google"
 [critical-projects]: https://github.com/ossf/wg-securing-critical-projects "Description of set of critical Open Source Projects, by OpenSSF"
 [scorecards]: https://securityscorecards.dev/ "Scorecards website"
 [slsa]: https://slsa.dev/ "SLSA website"
