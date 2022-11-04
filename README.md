@@ -22,7 +22,7 @@ More specifically, I'm part of a sub-team responsible for our direct contact wit
 * If possible and wanted, implement the changes ourselves and create PRs to contribute with the discussed improvements.
 * Collect any kinds of feedback, as we work closely with OpenSSF and any complains would be kindly heard.
 
-#### Security Solutions
+### Security Solutions
 
 In regard to the GOSST/OpenSSF security solutions that help securing the supply-chain, we can name:
 
