@@ -1,9 +1,18 @@
+## About me :man_technologist:
 
+On this coding life since started a technical course on my 15's, I'm graduated on Computer Engineering by University of Campinas in Brazil, where I could also enroll in an exchange program to Russia. 
+
+I have worked as a developer at a startup when it had ~5 employees, but also buiding a web application for a big company. Aside from that, I worked as a AI researcher, when I could write a paper about Knowledge Graphs 👀.
+
+Personally, I'm a VIM addicted and have Kotlin as my favorite language. Aside from coding, I'm a very proud cat dad and a French learner dying to use it on my next international trips :airplane:. I'm also a fan of Dark Souls series and enjoying my recently bought Playstation 5 :yum:
+
+Currently, I'm working for Google on Google Open Source Security Team (GOSST), which I'll present on the next topic 🙂
+
+
+## About GOSST :ghost:
 ![GOSST team logo](https://pbs.twimg.com/media/FRSTBmlUUAAXvry.jpg)
 
-### Hello! 👋
-
-I’m currently working for Google on Google Open Source Security Team (GOSST), which was created as a response to the current scenario of [increasing attacks on supply chain projects][supply-chain-attacks]. The team counts with experienced open-source contributors and works along with the Open Source Security Foundation ([OpenSSF][ossf]) to develop and spread solutions to make open softwares safer at scale. You can read more about Google initiatives on open source on [this blogpost][open-source-on-google].
+GOSST was created as a response to the current scenario of [increasing attacks on supply chain projects][supply-chain-attacks]. The team counts with experienced open-source contributors and works along with the Open Source Security Foundation ([OpenSSF][ossf]) to develop and spread solutions to make open softwares safer at scale. You can read more about Google initiatives on open source on [this blogpost][open-source-on-google].
 
 More specifically, I'm part of a sub-team responsible for our direct contact with the Open Source community. We work around [critical open source projects][critical-projects] to help increase security, in any aspect or concern that might be relevant. As a team, our goal is to:
 
@@ -13,6 +22,7 @@ More specifically, I'm part of a sub-team responsible for our direct contact wit
 * If possible and wanted, implement the changes ourselves and create PRs to contribute with the discussed improvements.
 * Collect any kinds of feedback, as we work closely with OpenSSF and any complains would be kindly heard.
 
+#### Security Solutions
 
 In regard to the GOSST/OpenSSF security solutions that help securing the supply-chain, we can name:
 
