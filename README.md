@@ -1,5 +1,14 @@
 ## About me :man_technologist:
 
+😄 Pronouns: He/Him
+🇧🇷 I am Brazilian!
+🔭 I’m working at Google on Google Open Source Security Team (GOSST).
+🎓 Graduated in Computer Engineering in University of Campinas (UNICAMP), with a exchange program to Russia :school_satchel:.
+💻 My favorite programing languages are: Kotlin, Pyhon and Java.
+🌱 My next learning objectives are Japanese and French.
+📫 How to reach me: You can send me an email at joycebrum@google.com.
+⚡ Fun fact: I love books, videogames, animes and mangas.
+
 On this coding life since started a technical course on my 15's, I'm graduated on Computer Engineering by University of Campinas in Brazil, where I could also enroll in an exchange program to Russia. 
 
 I have worked as a developer at a startup when it had ~5 employees, but also buiding a web application for a big company. Aside from that, I worked as a AI researcher, when I could write a paper about Knowledge Graphs 👀.
