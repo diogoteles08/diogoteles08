@@ -10,7 +10,11 @@ Currently, I'm working for Google on Google Open Source Security Team (GOSST), w
 
 
 ## About GOSST :ghost:
-![GOSST team logo](https://pbs.twimg.com/media/FRSTBmlUUAAXvry.jpg)
+
+<img align="right"
+ style="padding-left: 20px"
+ src="https://user-images.githubusercontent.com/15221358/206766965-c4bf9258-39da-4851-b39a-57e8475d6b47.png"
+ alt="Logo of GOSST team">
 
 GOSST was created as a response to the current scenario of [increasing attacks on supply chain projects][supply-chain-attacks]. The team counts with experienced open-source contributors and works along with the Open Source Security Foundation ([OpenSSF][ossf]) to develop and spread solutions to make open softwares safer at scale. You can read more about Google initiatives on open source on [this blogpost][open-source-on-google].
 
