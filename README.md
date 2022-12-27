@@ -1,21 +1,14 @@
 ## About me :man_technologist:
 
-😄 Pronouns: He/Him
-🇧🇷 I am Brazilian!
-🔭 I’m working at Google on Google Open Source Security Team (GOSST).
-🎓 Graduated in Computer Engineering in University of Campinas (UNICAMP), with a exchange program to Russia :school_satchel:.
-💻 My favorite programing languages are: Kotlin, Pyhon and Java.
-🌱 My next learning objectives are Japanese and French.
-📫 How to reach me: You can send me an email at joycebrum@google.com.
-⚡ Fun fact: I love books, videogames, animes and mangas.
-
-On this coding life since started a technical course on my 15's, I'm graduated on Computer Engineering by University of Campinas in Brazil, where I could also enroll in an exchange program to Russia. 
-
-I have worked as a developer at a startup when it had ~5 employees, but also buiding a web application for a big company. Aside from that, I worked as a AI researcher, when I could write a paper about Knowledge Graphs 👀.
-
-Personally, I'm a VIM addicted and have Kotlin as my favorite language. Aside from coding, I'm a very proud cat dad and a French learner dying to use it on my next international trips :airplane:. I'm also a fan of Dark Souls series and enjoying my recently bought Playstation 5 :yum:
-
-Currently, I'm working for Google on Google Open Source Security Team (GOSST), which I'll present on the next topic 🙂
+- 😄 Pronouns: He/Him
+- 🇧🇷 I am Brazilian! Currently Living in São Paulo
+- 🎓 Graduated in Computer Engineering in University of Campinas (UNICAMP), with an exchange program to Russia :school_satchel:
+- 💻 My favorite language is Kotlin, and I love to code using VIM
+- 🐈 I'm a very proud cat dad! His name is Ravi 🥰
+- 🎮 I'm a fan of Dark Souls series and I'm enjoying my recently bought Playstation 5 :yum: 
+- :office: I work at Google on Google Open Source Security Team (GOSST)
+- :book: My next learning objectives are French and improving general communication/leading skills
+- :speech_balloon: I'd be more than happy to receive any contact through diogoteles@google.com, [Twitter](https://twitter.com/coding_diogo) or [LinkedIn](https://www.linkedin.com/in/diogotelessantanna) 😃
 
 
 ## About GOSST :ghost:
