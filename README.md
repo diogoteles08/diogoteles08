@@ -7,7 +7,7 @@
 - 🕶️ Fun facts:
   - 🐈 I'm a very proud cat dad! His name is Ravi 🥰
   - 🎮 I'm a fan of Dark Souls series and I'm enjoying my recently bought Playstation 5 :yum: 
-  - 🍷 I love wine and I'm starting to learn about then hehe
+  - 🍷 I love wine and I'm starting to learn about them hehe
 - :office: I work at Google on Google Open Source Security Team (GOSST)
 - :book: My next learning objectives are French and improving general communication/leading skills
 - :speech_balloon: I'd be more than happy to receive any contact through diogoteles@google.com, [Twitter](https://twitter.com/coding_diogo) or [LinkedIn](https://www.linkedin.com/in/diogotelessantanna) 😃
