@@ -20,15 +20,15 @@
  src="https://user-images.githubusercontent.com/15221358/206766965-c4bf9258-39da-4851-b39a-57e8475d6b47.png"
  alt="Logo of GOSST team">
 
-GOSST was created as a response to the current scenario of [increasing attacks on supply chain projects][supply-chain-attacks]. The team counts with experienced open-source contributors and works along with the Open Source Security Foundation ([OpenSSF][ossf]) to develop and spread solutions to make open softwares safer at scale. You can read more about Google initiatives on open source on [this blogpost][open-source-on-google].
+GOSST was created as a response to the current scenario of [increasing attacks on supply chain projects][supply-chain-attacks]. The team counts with experienced open-source contributors and works alongside the Open Source Security Foundation ([OpenSSF][ossf]) to develop and spread solutions to make open software safer at scale. You can read more about Google initiatives on open source on [this blogpost][open-source-on-google].
 
-More specifically, I'm part of a sub-team responsible for our direct contact with the Open Source community. We work around [critical open source projects][critical-projects] to help increase security, in any aspect or concern that might be relevant. As a team, our goal is to:
+More specifically, I'm part of a sub-team responsible for our direct engagement with the Open Source community. We work with [critical open source projects][critical-projects] to help them increase their security, in any way we can. As a team, our goal is to:
 
 * Build individual analyses and approaches for each project.
-* Evaluate and suggest solutions or enhancements that would better fit the repository and not overcharge the maintainers.
-* Welcome and conduct discussions about our suggestion or about any security solutions the maintainers prefer, as we can surely provide specific help according to their demands.
-* If possible and wanted, implement the changes ourselves and create PRs to contribute with the discussed improvements.
-* Collect any kinds of feedback, as we work closely with OpenSSF and any complains would be kindly heard.
+* Evaluate and suggest solutions or enhancements that would better fit the repository and not burden the maintainers.
+* Welcome and conduct discussions about our suggestion or  any security solutions the maintainers prefer, as we can surely provide specific help according to their demands.
+* If possible and wanted, implement the changes ourselves via PRs to contribute with the discussed improvements.
+* Collect all kinds of feedback, as we work closely with OpenSSF and any complaints would be kindly heard.
 
 ### Security Solutions
 
