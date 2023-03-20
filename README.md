@@ -1,19 +1,19 @@
-## About me :man_technologist:
+# About me 👨‍💻
 
 - 😄 Pronouns: He/Him
-- 🇧🇷 I am Brazilian! Currently Living in São Paulo
+- 🇧🇷 I am Brazilian! Currently living in São Paulo
 - 🎓 Graduated in Computer Engineering in University of Campinas (UNICAMP), with an exchange program to Russia :school_satchel:
 - 💻 My favorite language is Kotlin, and I love to code using VIM
 - 🕶️ Fun facts:
   - 🐈 I'm a very proud cat dad! His name is Ravi 🥰
-  - 🎮 I'm a fan of Dark Souls series and I'm enjoying my recently bought Playstation 5 :yum: 
+  - 🎮 I'm a fan of Dark Souls series and I'm enjoying my recently bought PlayStation 5 :yum: 
   - 🍷 I love wine and I'm starting to learn about them hehe
 - :office: I work at Google on Google Open Source Security Team (GOSST)
 - :book: My next learning objectives are French and improving general communication/leading skills
 - :speech_balloon: I'd be more than happy to receive any contact through diogoteles@google.com, [Twitter](https://twitter.com/coding_diogo) or [LinkedIn](https://www.linkedin.com/in/diogotelessantanna) 😃
 
 
-## About GOSST :ghost:
+# About GOSST 👻
 
 <img align="right"
  style="padding-left: 20px"
@@ -30,7 +30,7 @@ More specifically, I'm part of a sub-team responsible for our direct engagement 
 * If possible and wanted, implement the changes ourselves via PRs to contribute with the discussed improvements.
 * Collect all kinds of feedback, as we work closely with OpenSSF and any complaints would be kindly heard.
 
-### Security Solutions
+## Security Solutions
 
 See below some of the tools developed by GOSST and the OpenSSF:
 
