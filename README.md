@@ -1,5 +1,4 @@
-## About me :man_technologist:
-
+## About me 👨‍💻
 
 - 😄 Pronouns: He/Him
 - 🇧🇷 I am Brazilian! Currently living in São Paulo
@@ -14,8 +13,7 @@
 - :speech_balloon: I'd be more than happy to receive any contact through diogoteles@google.com, [Twitter](https://twitter.com/coding_diogo) or [LinkedIn](https://www.linkedin.com/in/diogotelessantanna) 😃
 
 
-## About GOSST :ghost:
-
+## About GOSST 👻
 
 <img align="right"
  style="padding-left: 20px"
