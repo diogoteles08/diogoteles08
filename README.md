@@ -1,7 +1,7 @@
 ## About me :man_technologist:
 
 - 😄 Pronouns: He/Him
-- 🇧🇷 I am Brazilian! Currently Living in São Paulo
+- 🇧🇷 I am Brazilian! Currently living in São Paulo
 - 🎓 Graduated in Computer Engineering in University of Campinas (UNICAMP), with an exchange program to Russia :school_satchel:
 - 💻 My favorite language is Kotlin, and I love to code using VIM
 - 🕶️ Fun facts:
