@@ -1,4 +1,4 @@
-## About me 👨‍💻
+# About me 👨‍💻
 
 - 😄 Pronouns: He/Him
 - 🇧🇷 I am Brazilian! Currently living in São Paulo
@@ -13,7 +13,7 @@
 - :speech_balloon: I'd be more than happy to receive any contact through diogoteles@google.com, [Twitter](https://twitter.com/coding_diogo) or [LinkedIn](https://www.linkedin.com/in/diogotelessantanna) 😃
 
 
-## About GOSST 👻
+# About GOSST 👻
 
 <img align="right"
  style="padding-left: 20px"
@@ -30,7 +30,7 @@ More specifically, I'm part of a sub-team responsible for our direct engagement 
 * If possible and wanted, implement the changes ourselves via PRs to contribute with the discussed improvements.
 * Collect all kinds of feedback, as we work closely with OpenSSF and any complaints would be kindly heard.
 
-### Security Solutions
+## Security Solutions
 
 See below some of the tools developed by GOSST and the OpenSSF:
 
