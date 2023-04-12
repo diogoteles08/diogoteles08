@@ -34,7 +34,7 @@ More specifically, I'm part of a sub-team responsible for our direct engagement 
 
 See below some of the tools developed by GOSST and the OpenSSF:
 
-* [Scorecards][scorecards]: automated checks to evaluate a project's security practices and suggest improvements as needed
+* [Scorecard][scorecard]: automated checks to evaluate a project's security practices and suggest improvements as needed
 * [SLSA (pronounced "salsa")][slsa]: a standard and protocol to ensure an artifact's provenance, guaranteeing it comes from the expected location and process. It prevents tampering and improves the integrity of infrastructure and consumed packages
 * [Sigstore][sigstore]: keyless signing and verification of artifacts
 * [OSS-FUZZ][oss-fuzz]: automated [fuzzing][fuzzing] at scale, now fuzzing 800+ projects in 6 languages
@@ -53,6 +53,6 @@ See below some of the tools developed by GOSST and the OpenSSF:
 [osv]: https://osv.dev/ "OSV website"
 [osv-scanner]: https://github.com/google/osv-scanner "GitHub repository for OSV-Scanner"
 [supply-chain-attacks]: https://www.sonatype.com/resources/state-of-the-software-supply-chain-2021 "Source with research on software supply chain security"
-[scorecards]: https://securityscorecards.dev/ "Scorecards website"
+[scorecard]: https://securityscorecards.dev/ "Scorecards website"
 [slsa]: https://slsa.dev/ "SLSA website"
 [sigstore]: https://www.sigstore.dev/ "Sigstore website"
