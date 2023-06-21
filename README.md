@@ -30,6 +30,8 @@ More specifically, I'm part of a sub-team responsible for our direct engagement 
 * If possible and wanted, implement the changes ourselves via PRs to contribute with the discussed improvements.
 * Collect all kinds of feedback, as we work closely with OpenSSF and any complaints would be kindly heard.
 
+Please read more about our acchievements on our [1-year blogpost](https://opensource.googleblog.com/2023/04/googles-open-source-security-upstream-team-one-year-later.html).
+
 ### Security Solutions
 
 See below some of the tools developed by GOSST and the OpenSSF:
